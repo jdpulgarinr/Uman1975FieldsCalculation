@@ -1,8 +1,7 @@
 function [timeVector, BFieldVector] = BField(calculationDistance)
 %BField This function calculates the magnetic field at a distant point from
 %a lightning channel by means of numerical integration of Equation (7) of
-%the paper: The Electromagnetic Radiation from a Finite Antenna, by Martin
-%A. Uman, D. Kenneth McLain, E. Philip Krider. 1975.
+%the paper 
 %
 % Syntax:  [timeVector, BFieldVector] = BField(calculationDistance)
 %
